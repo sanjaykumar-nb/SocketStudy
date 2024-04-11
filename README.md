@@ -81,10 +81,10 @@ while True:
 
 ```
 ## Output
-client program
+client 
 ![alt text](<Screenshot 2024-client.png>)
 
-server program
+server 
 ![alt text](<Screenshot 2024-server.png>)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
